@@ -1,0 +1,14 @@
+{
+  "name": "algo-demo-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^1.11.0"
+  }
+}
